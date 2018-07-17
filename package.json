@@ -1,0 +1,31 @@
+{
+  "name": "dbooks-api",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.7.19",
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "debug": "~2.2.0",
+    "errorhandler": "^1.4.3",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "jade": "~1.11.0",
+    "method-override": "^2.3.6",
+    "moment": "^2.22.0",
+    "mongodb": "^2.2.9",
+    "mongoose": "5.0.0",
+    "morgan": "^1.7.0",
+    "nodemon": "^1.17.1",
+    "sendgrid": "^5.2.3",
+    "serve-favicon": "~2.3.0",
+    "shortid": "^2.2.8",
+    "sparkpost": "^2.0.1",
+    "steem": "^0.7.1",
+    "steemjs-lib": "^0.3.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dbooks-api"
+  }
+}
